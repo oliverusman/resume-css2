@@ -1,0 +1,11 @@
+div{
+    border: 2px solid black;
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    background-image: url("naturelove.webp");
+    background-size: cover;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+}
